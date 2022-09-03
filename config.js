@@ -41,18 +41,18 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6283183321692','6281257170601'] //ur owner number
-global.ownername = "6283183321692"
+global.owner = ['6281257170601'] //ur owner number
+global.ownername = "6281257170601"
 global.ytname = "GADAK" //ur yt chanel name
 global.socialm = "GitHub: [ Jarot ]" //ur github or insta name
 global.location = "Indonesia, Medan, tembong" //ur location
 
 //bot bombdy
-global.botname = "Robot WhatsApp" //ur bot name
+global.botname = "VINN BOT" //ur bot name
 global.websitex = "GADAK" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "Robot WhatsApp Stickers\n\n\n\n\n\n\n🦄🗿🤧 "
-global.author = "Robot WhatsApp"
+global.author = "VINN BOT"
 global.themeemoji = "🐶"
 global.reactmoji = "🗿"
 global.ownertag = ['6283183321692'] //ur owner tag
